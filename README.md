@@ -1,4 +1,4 @@
-![logo]()
+![logo](https://github.com/22RADHIKABHARDWAJ/radhikaa/blob/main/banner.jpeg)
 
 <h1 align="center">Hi 👋, I'm Radhika Bhardwaj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
