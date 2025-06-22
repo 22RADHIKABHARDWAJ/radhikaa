@@ -1,8 +1,19 @@
-![logo](https://github.com/22RADHIKABHARDWAJ/radhikaa/blob/main/techrb.png)
+<p align="center">
+  <img src="https://github.com/22RADHIKABHARDWAJ/radhikaa/blob/main/techrb.png" alt="logo" width="200px" style="max-width:100%; height:200px;" style="border-radius: 15px;"/>
+</p>
+
 
 <h1 align="center">Hi 👋, I'm Radhika Bhardwaj</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img algin="center" alt="codeing" width="500px" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
+
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif" alt="coding" width="500px" />
+</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=22radhikabhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="22radhikabhardwaj" />
+</p>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=22radhikabhardwaj&label=Profile%20views&color=0e75b6&style=flat" alt="22radhikabhardwaj" /> </p>
 
